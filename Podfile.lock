@@ -1,0 +1,33 @@
+PODS:
+  - Alamofire (4.7.3)
+  - AsyncSwift (2.0.4)
+  - PKHUD (4.2.3)
+  - RxCocoa (4.2.0):
+    - RxSwift (~> 4.0)
+  - RxSwift (4.2.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - AsyncSwift (~> 2.0)
+  - PKHUD (~> 4.0)
+  - RxCocoa
+  - RxSwift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AsyncSwift
+    - PKHUD
+    - RxCocoa
+    - RxSwift
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  AsyncSwift: 65775a7b32e740609b24969ece3de58723b9dc3e
+  PKHUD: c7692163a09875cbf15827dc581df3c5cf7f1015
+  RxCocoa: 0b54909c902e1e581212a03e690bbd94032d8baa
+  RxSwift: 99e10317ddfcc7fbe01356aafd118fde4a0be104
+
+PODFILE CHECKSUM: 1c8564ba0ba4ed14e2b1722db8f195d74230f5ca
+
+COCOAPODS: 1.5.3
